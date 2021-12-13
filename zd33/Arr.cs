@@ -1,14 +1,15 @@
 using System;
+using System.Collections;
 using System.Collections.Generic;
 
 namespace zd33
 {
-    public class Arr : ICloneable, IComparable<Arr>, IComparer<Arr>
+    public class Arr : ICloneable, IComparable<Arr>, IComparer<Arr>, IEnumerable
     {
         private string[] array;
         private int index;
 
-        
+        public Arr() {}
         public Arr(string[] mas, int length)
         {
             array = new string[length];
@@ -120,15 +121,29 @@ namespace zd33
             return this.Index.CompareTo(arr.Index);
         }
         
-        
         public int Compare(Arr arr1, Arr arr2)
         {
             if (arr1.Index > arr2.Index)
                 return 1;
-            else if (arr1.Index < arr2.Index)
+            else if (arr1.Index < Index)
                 return -1;
             else
                 return 0;
+        }
+        
+        public IEnumerator GetEnumerator()
+        {
+            return Array.GetEnumerator();
+        }
+
+        public override string ToString()
+        {
+            string s = "";
+            foreach (var VARIABLE in Array)
+            {
+                s += VARIABLE + " ";
+            }
+            return $"Массив: {s}\nДлина массива: {Index}";
         }
     }
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jegorjegor/programming/c#/upinterface/upinterface/upinterface.csproj",
-      "projectName": "upinterface",
-      "projectPath": "/home/jegorjegor/programming/c#/upinterface/upinterface/upinterface.csproj",
+      "projectUniqueName": "/home/jegorjegor/programming/c#/upinterface/zd1/zd1.csproj",
+      "projectName": "zd1",
+      "projectPath": "/home/jegorjegor/programming/c#/upinterface/zd1/zd1.csproj",
       "packagesPath": "/home/jegorjegor/.nuget/packages/",
-      "outputPath": "/home/jegorjegor/programming/c#/upinterface/upinterface/obj/",
+      "outputPath": "/home/jegorjegor/programming/c#/upinterface/zd1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/jegorjegor/.nuget/NuGet/NuGet.Config"
