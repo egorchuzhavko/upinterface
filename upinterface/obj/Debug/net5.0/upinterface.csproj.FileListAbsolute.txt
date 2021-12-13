@@ -1,0 +1,16 @@
+/home/jegorjegor/programming/c#/upinterface/upinterface/bin/Debug/net5.0/upinterface
+/home/jegorjegor/programming/c#/upinterface/upinterface/bin/Debug/net5.0/upinterface.deps.json
+/home/jegorjegor/programming/c#/upinterface/upinterface/bin/Debug/net5.0/upinterface.runtimeconfig.json
+/home/jegorjegor/programming/c#/upinterface/upinterface/bin/Debug/net5.0/upinterface.runtimeconfig.dev.json
+/home/jegorjegor/programming/c#/upinterface/upinterface/bin/Debug/net5.0/upinterface.dll
+/home/jegorjegor/programming/c#/upinterface/upinterface/bin/Debug/net5.0/ref/upinterface.dll
+/home/jegorjegor/programming/c#/upinterface/upinterface/bin/Debug/net5.0/upinterface.pdb
+/home/jegorjegor/programming/c#/upinterface/upinterface/obj/Debug/net5.0/upinterface.csproj.AssemblyReference.cache
+/home/jegorjegor/programming/c#/upinterface/upinterface/obj/Debug/net5.0/upinterface.GeneratedMSBuildEditorConfig.editorconfig
+/home/jegorjegor/programming/c#/upinterface/upinterface/obj/Debug/net5.0/upinterface.AssemblyInfoInputs.cache
+/home/jegorjegor/programming/c#/upinterface/upinterface/obj/Debug/net5.0/upinterface.AssemblyInfo.cs
+/home/jegorjegor/programming/c#/upinterface/upinterface/obj/Debug/net5.0/upinterface.csproj.CoreCompileInputs.cache
+/home/jegorjegor/programming/c#/upinterface/upinterface/obj/Debug/net5.0/upinterface.dll
+/home/jegorjegor/programming/c#/upinterface/upinterface/obj/Debug/net5.0/ref/upinterface.dll
+/home/jegorjegor/programming/c#/upinterface/upinterface/obj/Debug/net5.0/upinterface.pdb
+/home/jegorjegor/programming/c#/upinterface/upinterface/obj/Debug/net5.0/upinterface.genruntimeconfig.cache
