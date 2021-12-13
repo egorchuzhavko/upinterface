@@ -8,6 +8,7 @@ namespace zd33
         private string[] array;
         private int index;
 
+        
         public Arr(string[] mas, int length)
         {
             array = new string[length];
