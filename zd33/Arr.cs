@@ -118,7 +118,8 @@ namespace zd33
         {
             return this.Index.CompareTo(arr.Index);
         }
-
+        
+        
         public int Compare(Arr arr1, Arr arr2)
         {
             if (arr1.Index > arr2.Index)
