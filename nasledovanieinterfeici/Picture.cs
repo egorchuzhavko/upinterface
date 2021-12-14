@@ -40,7 +40,7 @@ namespace nasledovanieinterfeici
             }
 
             string infoofpolygons = "";
-            foreach (var VARIABLE in infoofpolygons)
+            foreach (var VARIABLE in listofpolygons)
             {
                 infoofpolygons += VARIABLE.ToString() + "\n";
             }
@@ -48,7 +48,7 @@ namespace nasledovanieinterfeici
             return $"Info about list of colored points:\n{infoofcoloredpoints}\n" +
                    $"Info about list of lines:\n{infooflines}\n" +
                    $"Info about list of colored lines:\n{infoofcoloredlines}\n" +
-                   $"Info about list of polygons:\n{listofpolygons}\n";
+                   $"Info about list of polygons:\n{infoofpolygons}\n";
         }
     }
 }
