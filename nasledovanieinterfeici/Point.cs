@@ -6,29 +6,21 @@ namespace nasledovanieinterfeici
     {
         protected double x, y;
         protected string color;
-        public string Color
-        {
-            get { return color; }
-            set { color = value; }
-        }
 
-        public double X
-        {
-            get { return x; }
-            set { x = value; }
-        }
+        public virtual double GetX() { return x; }
+        public virtual double GetY() { return y; }
+        public virtual string GetColor() { return color; }
 
-        public double Y
-        {
-            get { return y; }
-            set { y = value; }
-        }
+        public virtual void SetX(double x) { this.x = x; }
+        public virtual void SetY(double y) { this.y = y; }
+        public virtual void SetColor(string color) { this.color = color; }
+
 
         public Point(double x, double y, string color)
         {
-            X = x;
-            Y = y;
-            Color = color;
+            this.x = x;
+            this.y = y;
+            this.color = color;
         }
     }
 }
