@@ -15,5 +15,15 @@ namespace nasledovanieinterfeici
         public virtual List<Line> GetPolygon() { return polygon; }
 
         public virtual void SetPolygon(List<Line> polygon) { this.polygon = polygon; }
+
+        public override string ToString()
+        {
+            string infoofpolygon = "";
+            foreach (var VARIABLE in polygon)
+            {
+                infoofpolygon += VARIABLE.ToString() + "\n";
+            }
+            return infoofpolygon;
+        }
     }
 }

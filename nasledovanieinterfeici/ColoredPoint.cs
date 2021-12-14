@@ -11,5 +11,10 @@ namespace nasledovanieinterfeici
         public virtual string GetColor() { return color; }
 
         public virtual void SetColor(string color) { this.color = color; }
+
+        public override string ToString()
+        {
+            return $"X = {GetX()}, Y = {GetY()}, Color = {GetColor()}";
+        }
     }
 }
