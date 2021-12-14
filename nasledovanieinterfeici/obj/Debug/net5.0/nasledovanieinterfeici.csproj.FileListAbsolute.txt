@@ -1,0 +1,16 @@
+/home/jegorjegor/programming/c#/upinterface/nasledovanieinterfeici/bin/Debug/net5.0/nasledovanieinterfeici
+/home/jegorjegor/programming/c#/upinterface/nasledovanieinterfeici/bin/Debug/net5.0/nasledovanieinterfeici.deps.json
+/home/jegorjegor/programming/c#/upinterface/nasledovanieinterfeici/bin/Debug/net5.0/nasledovanieinterfeici.runtimeconfig.json
+/home/jegorjegor/programming/c#/upinterface/nasledovanieinterfeici/bin/Debug/net5.0/nasledovanieinterfeici.runtimeconfig.dev.json
+/home/jegorjegor/programming/c#/upinterface/nasledovanieinterfeici/bin/Debug/net5.0/nasledovanieinterfeici.dll
+/home/jegorjegor/programming/c#/upinterface/nasledovanieinterfeici/bin/Debug/net5.0/ref/nasledovanieinterfeici.dll
+/home/jegorjegor/programming/c#/upinterface/nasledovanieinterfeici/bin/Debug/net5.0/nasledovanieinterfeici.pdb
+/home/jegorjegor/programming/c#/upinterface/nasledovanieinterfeici/obj/Debug/net5.0/nasledovanieinterfeici.csproj.AssemblyReference.cache
+/home/jegorjegor/programming/c#/upinterface/nasledovanieinterfeici/obj/Debug/net5.0/nasledovanieinterfeici.GeneratedMSBuildEditorConfig.editorconfig
+/home/jegorjegor/programming/c#/upinterface/nasledovanieinterfeici/obj/Debug/net5.0/nasledovanieinterfeici.AssemblyInfoInputs.cache
+/home/jegorjegor/programming/c#/upinterface/nasledovanieinterfeici/obj/Debug/net5.0/nasledovanieinterfeici.AssemblyInfo.cs
+/home/jegorjegor/programming/c#/upinterface/nasledovanieinterfeici/obj/Debug/net5.0/nasledovanieinterfeici.csproj.CoreCompileInputs.cache
+/home/jegorjegor/programming/c#/upinterface/nasledovanieinterfeici/obj/Debug/net5.0/nasledovanieinterfeici.dll
+/home/jegorjegor/programming/c#/upinterface/nasledovanieinterfeici/obj/Debug/net5.0/ref/nasledovanieinterfeici.dll
+/home/jegorjegor/programming/c#/upinterface/nasledovanieinterfeici/obj/Debug/net5.0/nasledovanieinterfeici.pdb
+/home/jegorjegor/programming/c#/upinterface/nasledovanieinterfeici/obj/Debug/net5.0/nasledovanieinterfeici.genruntimeconfig.cache

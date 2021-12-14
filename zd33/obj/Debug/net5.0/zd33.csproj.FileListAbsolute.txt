@@ -1,0 +1,16 @@
+/home/jegorjegor/programming/c#/upinterface/zd33/bin/Debug/net5.0/zd33
+/home/jegorjegor/programming/c#/upinterface/zd33/bin/Debug/net5.0/zd33.deps.json
+/home/jegorjegor/programming/c#/upinterface/zd33/bin/Debug/net5.0/zd33.runtimeconfig.json
+/home/jegorjegor/programming/c#/upinterface/zd33/bin/Debug/net5.0/zd33.runtimeconfig.dev.json
+/home/jegorjegor/programming/c#/upinterface/zd33/bin/Debug/net5.0/zd33.dll
+/home/jegorjegor/programming/c#/upinterface/zd33/bin/Debug/net5.0/ref/zd33.dll
+/home/jegorjegor/programming/c#/upinterface/zd33/bin/Debug/net5.0/zd33.pdb
+/home/jegorjegor/programming/c#/upinterface/zd33/obj/Debug/net5.0/zd33.csproj.AssemblyReference.cache
+/home/jegorjegor/programming/c#/upinterface/zd33/obj/Debug/net5.0/zd33.GeneratedMSBuildEditorConfig.editorconfig
+/home/jegorjegor/programming/c#/upinterface/zd33/obj/Debug/net5.0/zd33.AssemblyInfoInputs.cache
+/home/jegorjegor/programming/c#/upinterface/zd33/obj/Debug/net5.0/zd33.AssemblyInfo.cs
+/home/jegorjegor/programming/c#/upinterface/zd33/obj/Debug/net5.0/zd33.csproj.CoreCompileInputs.cache
+/home/jegorjegor/programming/c#/upinterface/zd33/obj/Debug/net5.0/zd33.dll
+/home/jegorjegor/programming/c#/upinterface/zd33/obj/Debug/net5.0/ref/zd33.dll
+/home/jegorjegor/programming/c#/upinterface/zd33/obj/Debug/net5.0/zd33.pdb
+/home/jegorjegor/programming/c#/upinterface/zd33/obj/Debug/net5.0/zd33.genruntimeconfig.cache
