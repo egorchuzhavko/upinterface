@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zd2", "zd2\zd2.csproj", "{5
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zd33", "zd33\zd33.csproj", "{B40AE8E2-3264-401E-B6D4-42E47DDDBB28}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nasledovanieinterfeici", "nasledovanieinterfeici\nasledovanieinterfeici.csproj", "{E10C1E09-6359-4615-A070-23D47EDD150B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B40AE8E2-3264-401E-B6D4-42E47DDDBB28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B40AE8E2-3264-401E-B6D4-42E47DDDBB28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B40AE8E2-3264-401E-B6D4-42E47DDDBB28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E10C1E09-6359-4615-A070-23D47EDD150B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E10C1E09-6359-4615-A070-23D47EDD150B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E10C1E09-6359-4615-A070-23D47EDD150B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E10C1E09-6359-4615-A070-23D47EDD150B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
