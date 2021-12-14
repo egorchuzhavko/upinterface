@@ -6,7 +6,8 @@ namespace nasledovanieinterfeici
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            ColoredPoint nw = new ColoredPoint(12, 13, "qwe");
+            Console.WriteLine(nw.GetColor());
         }
     }
 }
